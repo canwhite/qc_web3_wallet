@@ -4,6 +4,14 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+## the main components of a wallet
+
+- account
+- recover
+- transaction
+
+## run and others
+
 ```shell
 yarn hardhat help
 yarn hardhat test
