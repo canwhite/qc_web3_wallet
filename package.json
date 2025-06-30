@@ -28,7 +28,8 @@
     "btc": "yarn hardhat run ./wallet/3_btc.ts",
     "eth": "yarn hardhat run ./wallet/4_eth.ts",
     "sol": "yarn hardhat run ./wallet/5_sol.ts",
-    "multi": "yarn hardhat run ./wallet/6_multisig.ts"
+    "multi": "yarn hardhat run ./wallet/6_multisig.ts",
+    "auth": "yarn hardhat run ./scripts/deploy_auth.ts --network localhost"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
